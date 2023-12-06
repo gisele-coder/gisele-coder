@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gisele-coder
 - 👀 I’m interested in make fun projects
-- 🌱 I’m currently learning Python, Kotlin and Angular
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on Apps and APIs
 - 📫 How to reach me giseletavares@gmail.com
 
