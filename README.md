@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in make fun projects <br/>
 - 🌱 I’m currently learning Java and Kotlin <br/>
 - 💞️ I’m looking to collaborate on Apps and APIs <br/>
-- 📫 How to reach me giseletavares@gmail.com <br/>
+- 📫 giselecoder.com <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisele-coder&layout=compact&langs_count=7&theme=onedark" /></div>
   <br/>
