@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gisele
 
-Backend Developer focused on Kotlin, Java and REST APIs.
+Fullstack Developer focused on Kotlin, Java and REST APIs. 
+Also, Android and POS payment devices.
 
 🔹 Strong experience with Android & API integrations  
 🔹 Passionate about clean architecture and software design  
